@@ -9,7 +9,7 @@ void setup() {
 void loop() {
   // put your main code here, to run repeatedly:
   x = analogRead(A0);
-  x = map(x, 0, 1023, 0, 125);
+  x = map(x, 0, 1023, 0, 255);
   Serial.println(x);
   analogWrite(11, x);
 
