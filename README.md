@@ -57,7 +57,25 @@ git push origin nome_da_branch
 git pull origin nome_da_branch
 ```
 
-### 
+### Ou simplesmente `git push` e `git pull` na sua branch atual
+
+## Branch
+### Cria uma nova branch, assim você separa versões de teste do seu código de versões que estão em uso, ou pode trabalhar em paz na sua parte sem se preocupar em estragar o trabalho do amigo :)
+### Para listar branches 
+```
+git branch
+```
+### Para criar uma nova branch
+```
+git branch nome_da_nova_branch
+```
+### Para criar e mudar para uma nova branch
+```
+git checkout -b nome_da_nova_branch
+```
+
+## Checkout 
+### Muda para uma branch específica ou desfaz alterações em arquivos.
 
 
 
