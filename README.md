@@ -12,8 +12,8 @@
 ### Existem outras regras de boas práticas, como colocar nomes de variáveis intuitivos e que façam sentido com o seu programa (mesmo que fique grande, o VSCode vai te ajudar a completar), ou criar funções pequenas (que façam idealmente uma, ou poucas coisas) isso ajuda muito na compreensão quando outra pessoa for ler seu código.
 ### Por aí vai, mas com o tempo vocês pegam o jeito. Lembrando que são boas práticas e que vão haver excessões, por exemplo se estiver codando pra máxima performance,
 ### De qualquer forma aqui vão uns links que eu achei sobre boas práticas
-https://liag.ft.unicamp.br/programacao2/boas-praticas-de-programacao/
-https://logap.com.br/blog/boas-praticas-programacao/
+### https://liag.ft.unicamp.br/programacao2/boas-praticas-de-programacao/
+### https://logap.com.br/blog/boas-praticas-programacao/
 
 
 
