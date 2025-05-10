@@ -41,6 +41,6 @@ void loop() {
 
 ### Usaremos o comando `analogWrite(pin, val)` dentro da função loop().
 
-### Para fazer piscar vamos usar o comando `delay(time)` que recebe o tempo em milissegundos.
+### Para fazer piscar vamos usar o comando `delay(time)` que recebe o tempo em milissegundos, ele vai esperar esse tempo e depois executar o próximo comando.
 
 ### Agora utilize o que aprendeu para fazer com que o LED pisque com período de 1 segundo.
