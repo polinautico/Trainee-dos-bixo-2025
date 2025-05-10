@@ -33,7 +33,7 @@ void loop() {
 ### Basicamente estamos trabalhando com um sistema digital, ou seja, a placa consegue emitir apenas dois estados HIGH/LOW (Ligado/Desligado, 5v/0v)
 ### Mas e se quisermos enviar uma tensão intermediária?
 ### A solução é pulsar o sinal muito rápido, ao ponto que a gente não perceba que está piscando, como se a tensão enviada fosse uma média entre o tempo que está em alta e o tempo que está em baixa, assim é como se um duty clycle de 50% representasse 2,5v
-![PWM](https://d1q3zw97enxzq2.cloudfront.net/images/duty_cycle_example_f.width-1000.bgcolor-000.format-webp.webp)
+![PWM](./PWM.png)
 
 ### No caso do arduino o duty cycle é configurado com um valor de 0 a 255 (onde 0 representa o tempo todo desligado e 255 o tempo todo ligado)
 
