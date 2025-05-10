@@ -45,4 +45,8 @@ void loop() {
 
 ### Agora utilize o que aprendeu para fazer com que o LED pisque com período de 1 segundo.
 
+ps: o LED tem lado certo
+
+![LED](./LED.png)
+
 # Desafio: usando essas mesmas coisas faça um semáforo usando 3 LEDs, o verde e o vemelho duram 3 segundos e o amarelo 1 segundo.
