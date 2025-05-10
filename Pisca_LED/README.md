@@ -44,3 +44,5 @@ void loop() {
 ### Para fazer piscar vamos usar o comando `delay(time)` que recebe o tempo em milissegundos, ele vai esperar esse tempo e depois executar o próximo comando.
 
 ### Agora utilize o que aprendeu para fazer com que o LED pisque com período de 1 segundo.
+
+# Desafio: usando essas mesmas coisas faça um semáforo usando 3 LEDs, o verde e o vemelho duram 3 segundos e o amarelo 1 segundo.
