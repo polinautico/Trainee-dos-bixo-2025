@@ -1,6 +1,8 @@
 # Trainee-dos-bixo-2025
 ### Repositório usado para treinar os bixo
 
+# Veja o arquivo de Power Point com tutorial de como baixar o github
+
 # Bem-vindo
 ### Você atualmente está na branch main
 
