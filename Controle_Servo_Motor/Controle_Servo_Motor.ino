@@ -1,9 +1,11 @@
 void setup() {
-  // put your setup code here, to run once:
 
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
+
+int a = analogRead(9) ;
+int valor = map(a, 0, 1023, 0, 255);
+analogWrite(5, valor);
 
 }
