@@ -26,4 +26,8 @@
 ![Nano](./Nano.jpg)
 ### Vocês devem baixar qualquer modelo que não estiver no programa
 
+### tutorial do indiano 
+https://www.youtube.com/watch?v=XiLnHYSrNHw
+
+
 
